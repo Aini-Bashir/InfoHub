@@ -1,0 +1,13 @@
+# How to create a PR on the VS code insiders
+- Download [VS code insiders](https://code.visualstudio.com/docs/?dv=win&build=insiders)
+- Clone the repository
+- Go to gh-pages and create a new branch from the gh- pages
+- ![image](https://github.com/Aini-Bashir/InfoHub/assets/117284277/0ada4fb8-ca08-4bf8-816d-853fc51ebcd4)
+- Publish it into your own forked repo
+- Change or upload the file you want
+- Use the "**Go live**" feature that will appear on the bottom right hand side. This feature will launch local file server and you can see your changes without actually merging on real website.
+- ![image](https://github.com/Aini-Bashir/InfoHub/assets/117284277/f5532c97-ee8f-4c16-b18a-56abde4b457d)
+- Now, go on GitHub desktop to create a PR.
+- Compare changes an dmake sure you rhead repository will always be the main repo (NoteHive) gh-pages and base repo will always be your forked one.
+- Create a PR and make sure to fill out the dashboard appearing on your right hand side of GitHub. (Leave the dashboard if you don't have access)
+- ![image](https://github.com/Aini-Bashir/InfoHub/assets/117284277/72d60ddd-414f-465f-879e-ab2afeacea46)
