@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aini Bashir</h1>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/tGNF23IwFZqlrfNreU/giphy.gif" width="250"/>
+</div>
+
 <h3 align="center">I am currently pursuing a degree in Psychology at the University of Sargodha, while simultaneously working at RevelTek company for over a year. During my tenure at RevelTek, I have gained proficiency in the Microsoft Suite, including Office, Word, Excel, and PPT. My skillset extends beyond traditional office applications, encompassing expertise in GitHub, VS Code Insiders, AI Fine-tuning, prompt engineering, and recruitment. Additionally, I possess strong copywriting and web design abilities. Currently, I am actively involved in the SILK Corp project, a public benefit corporation dedicated to advancing the hospitality industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aini-bashir&label=Profile%20views&color=0e75b6&style=flat" alt="aini-bashir" /> </p>
